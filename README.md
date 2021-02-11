@@ -1,2 +1,6 @@
-# zetamind
-backend test for zetamind  
+## run 
+
+npm i 
+
+
+node index.js
